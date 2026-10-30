@@ -1,0 +1,39 @@
+{
+  "version": "1.1.0",
+  "product": "MM Rank",
+  "vendor": "Media Matchers",
+  "domain": "",
+  "homepage": "",
+  "state_path": "",
+  "vault_path": "",
+  "client_name": "",
+  "business_type": "",
+  "stack": "",
+  "cms": "",
+  "content_surface": "",
+  "last_run": "",
+  "last_mode": "",
+  "learn": {
+    "repair": 1.0,
+    "refresh": 1.0,
+    "editorial": 1.0,
+    "programmatic": 1.0,
+    "aeo": 1.0,
+    "technical": 1.0,
+    "offpage": 1.0,
+    "tools": 1.0,
+    "distribute": 1.0
+  },
+  "integrations": {
+    "gsc_export": false,
+    "gsc_mcp": false,
+    "crawl_export": false,
+    "pagespeed": false,
+    "ahrefs_or_semrush": false,
+    "indexnow_key": false
+  },
+  "indexnow": {
+    "key": null,
+    "endpoint": null
+  }
+}
